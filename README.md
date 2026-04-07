@@ -23,6 +23,8 @@ All architectures emerge from **Ethco Coders**—my independent research-enginee
 
 ---
 
+![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=ethcocoder&theme=ocean&hide=prs,issues,contributedRepo)
+
 ## 🔭 Technical Focus Domains
 
 | Domain | Approach | Implementation Principle |

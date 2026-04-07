@@ -25,6 +25,8 @@ All architectures emerge from **Ethco Coders**—my independent research-enginee
 
 ![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=ethcocoder&theme=ocean&hide=prs,issues,contributedRepo)
 
+
+![Top Languages](https://gitglow-three.vercel.app/api/languages?username=ethcocoder&theme=dark)
 ## 🔭 Technical Focus Domains
 
 | Domain | Approach | Implementation Principle |

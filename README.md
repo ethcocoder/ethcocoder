@@ -1,6 +1,6 @@
-# 🌌 Natnael Ermiyas
+# Natnael Ermiyas (ethcocoder)
 
-**AI Systems Engineer | Quantum-Inspired Intelligence Researcher | Founder of Ethco Coders**
+AI Systems Engineer • Quantum-Inspired Intelligence Researcher • Founder, Ethco Coders
 
 [GitHub](https://github.com/ethcocoder) • [TikTok](https://tiktok.com/@paradoxnati) • [Ethco Coders](https://ethcocoders.gt.tc)
 
@@ -8,153 +8,96 @@
 
 ---
 
-## 🧠 Philosophy: Enacted Intelligence
+## About
 
-I don't build artificial prediction—I engineer **artificial cognition**.
-
-**Four Core Pillars:**
-- 🔬 **First-principles reasoning** over statistical approximation
-- 🧬 **Generative memory** over static datasets  
-- ⚛️ **Physics-based inference** over pattern matching
-- 🔢 **Mathematical simulation** over neural scaling
-
-> *"Intelligence is a verb. It must be enacted, not stored."*
-
-Every line of code is written to reveal, not obscure.
+I design and build explainable intelligence systems that emphasize principled reasoning, transparent state, and deterministic synthesis. My work blends first-principles modeling with generative memory and systems-level integration to create AI that is inspectable, reproducible, and engineered for real-world impact.
 
 ---
 
-## 📊 GitHub Overview
+## Core Philosophy
 
-![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=ethcocoder&theme=ocean&hide=prs,issues,contributedRepo)
+I focus on engineering artificial cognition rather than producing opaque statistical models.
 
-![Top Languages](https://gitglow-three.vercel.app/api/languages?username=ethcocoder&theme=dark)
+Principles:
+- First-principles reasoning over blind statistical approximation
+- Generative memory and reconstruction over static, cached artifacts
+- Physics-inspired, causal inference over purely correlative pattern matching
+- Mathematical simulation and interpretable state transitions over opaque scaling
 
----
-
-## 🎯 Technical Domains
-
-| **Domain** | **Approach** | **Principle** |
-|-----------|-----------|-------------|
-| 🧠 AI Architecture | Cognitive orchestration | Modular, inspectable subsystems with explicit state transitions |
-| 🔤 Language Models | From-scratch training | Custom tokenizers, attention variants, loss landscapes |
-| 💾 Memory Systems | Generative reconstruction | Store recipes, not artifacts; reconstruct on demand |
-| 📚 Retrieval | Structured RAG++ | Deterministic, conflict-aware, explainable synthesis |
-| 🤔 Reasoning | Mathematical universes | Data as axioms, computation as theorem proving |
-| 🔍 Inference | Causal physics | Model hidden causes through conservation laws |
-| 🔧 Integration | OS-level intelligence | AI as system service, not application layer |
+"Intelligence is enacted — not merely predicted."
 
 ---
 
-## 🚀 Elite Projects Ecosystem
+## Technical Focus
 
-### 🤖 **AI Engineering Systems**
-Advanced artificial intelligence engines with multi-branch development
-
-| **Project** | **Language** | **Status** | **Key Features** |
-|-----------|----------|---------|----------|
-| **[ai-engin-v2](https://github.com/ethcocoder/ai-engin-v2)** | Python | Latest v6 | Multi-branch architecture (main, v4, v5, v6) |
-| **[ai-engin](https://github.com/ethcocoder/ai-engin)** | Python | Active | 5 experimental branches |
-
-**Branches**: elite-mode, q-elite, v3-hybrid-enhancer
+- AI architecture: modular, inspectable cognitive subsystems
+- Language models: custom tokenizers and experimental attention variants
+- Memory systems: generative reconstruction and persistent state
+- Retrieval & synthesis: deterministic, conflict-aware RAG pipelines
+- Reasoning & inference: causal, physics-informed models and theorem-like computation
+- Systems integration: AI as an OS-level service for resilient deployment
 
 ---
 
-### ⚡ **Paradox Intelligence Ecosystem**
-Quantum-inspired cognitive systems with deterministic reasoning
+## Selected Projects
 
-| **Project** | **Language** | **Purpose** | **Status** |
-|-----------|----------|---------|---------|
-| **[quantumpro](https://github.com/ethcocoder/quantumpro)** | Python | Quantum-inspired intelligence | 3 active branches |
-| **[paradox-controller](https://github.com/ethcocoder/paradox-controller)** | TypeScript | System orchestration | Orchestration layer |
-| **[afanparadox](https://github.com/ethcocoder/afanparadox)** | Python | Paradox inference engine | Active inference |
+AI Engineering Systems
+- ai-engin-v2 — Python — multi-branch AI engine (v6+) — production and research branches
+- ai-engin — Python — experimental platform for architecture research
 
----
+Paradox Intelligence & Quantum-Inspired Research
+- quantumpro — Python — quantum-inspired cognitive algorithms
+- paradox-controller — TypeScript — orchestration layer for system workflows
+- afanparadox — Python — deterministic inference engine
 
-### 📊 **RAG & Knowledge Synthesis**
-Retrieval-augmented generation with conflict-aware knowledge synthesis
+RAG & Knowledge Synthesis
+- hasab-ai — Python — retrieval-augmented generation and knowledge synthesis (updated July 2026)
+- parag — Python — structured retrieval and synthesis platform
 
-| **Project** | **Language** | **Focus** | **Status** |
-|-----------|----------|--------|---------|
-| **[hasab-ai](https://github.com/ethcocoder/hasab-ai)** | Python | Intelligent computation | ✨ Latest (May 2026) |
-| **[parag](https://github.com/ethcocoder/parag)** | Python | Structured RAG++ | Active development |
+Core Frameworks
+- paraframework — Python — foundational cognitive framework
+- paraos — C — minimal OS-level integration for intelligence services
 
----
-
-### 🔨 **Core Frameworks**
-Foundation layers for intelligent system development
-
-| **Project** | **Language** | **Implementation** | **Status** |
-|-----------|----------|-----------|---------|
-| **[paraframework](https://github.com/ethcocoder/paraframework)** | Python | Cognitive framework | Latest |
-| **[paraos](https://github.com/ethcocoder/paraos)** | C | Operating system layer | Active |
+For a full list of projects and repositories, visit: https://github.com/ethcocoder?tab=repositories
 
 ---
 
-## 🌟 Full Portfolio
+## Capabilities
 
-**45+ Active Projects** across multiple domains:
-
-- **Web & Full-Stack**: TypeScript, JavaScript, Java, Kotlin
-- **AI & ML Research**: Python (custom architectures, transformers, RAG)
-- **Enterprise Systems**: PHP, Java, cloud infrastructure
-- **Learning Platforms**: e-learning systems, curriculum design
-- **Trading Systems**: Forex AI engines with specialized training
-- **Applications**: Desktop, mobile (Expo), CLI tools
-
-📍 View full portfolio: [ethcocoder repositories](https://github.com/ethcocoder?tab=repositories)
+- Explicit state reasoning and symbolic grounding
+- Generative-memory-based reconstruction
+- Latent arithmetic for simulation and forecasting
+- Explainable decision traces and adaptive feedback loops
+- Physics-informed anomaly detection and causal modeling
+- Multi-branch development workflows for parallel experimentation
+- Conflict-aware knowledge synthesis and deterministic resolution
 
 ---
 
-## ✨ Core Capabilities
+## Technology & Tools
 
-- ✅ **Explicit state reasoning** with symbolic grounding
-- ✅ **Generative memory** as creative substrate
-- ✅ **Latent arithmetic** for future simulation
-- ✅ **Emotion-weighted feedback loops** for adaptive learning
-- ✅ **Physical law modeling** for anomaly detection
-- ✅ **Multi-branch experimentation** for parallel innovation
-- ✅ **Conflict-aware synthesis** with deterministic resolution
-- ✅ **Quantum-inspired optimization** for complex problems
+Languages: Python, TypeScript, Java, Kotlin, C, PHP, JavaScript
+
+Practices: Explainable AI, causal inference, cognitive architectures, symbolic reasoning
+
+Infrastructure: GPU acceleration, distributed training, custom DSLs, memory optimizations
 
 ---
 
-## 🔬 Technology Stack
+## Collaboration
 
-**AI/ML**: Custom neural architectures, transformer variants, RAG systems, quantum computing
+All projects are open-source and actively maintained. I'm open to:
+- Collaborative research on cognitive and explainable AI
+- Enterprise integrations of advanced AI systems
+- Contributions to foundational frameworks and tooling
 
-**Languages**: Python, TypeScript, Java, Kotlin, C, PHP, JavaScript
-
-**Paradigms**: Explainable AI, causal inference, cognitive architectures, symbolic reasoning
-
-**Tools**: GPU acceleration, distributed systems, DSL design, memory optimization
-
----
-
-## 📜 Philosophy in Code
-
-Each project embodies core principles:
-
-1. **🔍 Abstraction with Transparency** — No black boxes, every layer is inspectable
-2. **🧩 Modular Cognition** — Components work independently AND together
-3. **📈 Observable Intelligence** — Every decision is traceable and explainable
-4. **📐 Mathematical Rigor** — Built on first principles, not statistical approximations
-5. **🔄 Evolving Excellence** — Continuous improvement through multi-branch development
+Contact:
+- GitHub: https://github.com/ethcocoder
+- TikTok: https://tiktok.com/@paradoxnati
 
 ---
 
-## 🤝 Let's Collaborate
+*Engineered for clarity. Built for impact.*
 
-All projects are **open-source** and actively maintained. I'm open to:
-- Collaborative research on cognitive architectures
-- Enterprise AI integration projects
-- Advanced ML system design
-- Framework contributions
-
-**📧 Get in Touch**: [GitHub](https://github.com/ethcocoder) | [TikTok](https://tiktok.com/@paradoxnati)
-
----
-
-*Built with obsession for clarity. Engineered for impact.*
-
-**Last Updated**: May 2026 | **Active Projects**: 45+ | **Elite Branches**: 20+
+**Last Updated:** 2026-07-01
+**Active Projects:** 45+
